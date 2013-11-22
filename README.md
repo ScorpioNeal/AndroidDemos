@@ -1,4 +1,4 @@
-<b>This repo contains all  my collected Android Demos orginazed like Android ApiDemo. </b>
+<b>This repo contains all  my collected Android Demos organized like Android ApiDemo. </b>
 <br></br>
 <br></br>
 <br></br>
