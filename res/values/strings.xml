@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyDemos</string>
+    <string name="activity_hello_world">App/<b>Hello <i>World</i></b></string>
+    <string name="activity_hello_world1">App/<b>Hello <i>World1</i></b></string>
+    <string name="test">System/Test</string>
+
+</resources>
