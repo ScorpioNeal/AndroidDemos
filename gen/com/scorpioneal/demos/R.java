@@ -22,6 +22,7 @@ public final class R {
         public static final int shopping_cart=0x7f020002;
         public static final int sign=0x7f020003;
         public static final int smart_shopping_cart_bg=0x7f020004;
+        public static final int toast=0x7f020005;
     }
     public static final class id {
         public static final int name=0x7f070002;
