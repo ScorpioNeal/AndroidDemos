@@ -3,7 +3,6 @@
 
     <string name="app_name">MyDemos</string>
     <string name="activity_hello_world">App/<b>Hello <i>World</i></b></string>
-    <string name="activity_hello_world1">App/<b>Hello <i>World1</i></b></string>
-    <string name="test">System/Test</string>
+    <string name="view_buy_cartoon">View/<b>Buy <i>Cartoon</i></b></string>
 
 </resources>

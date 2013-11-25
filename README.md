@@ -1,5 +1,1 @@
-<b>This repo contains all  my collected Android Demos organized like Android ApiDemo. </b>
-<br></br>
-<br></br>
-<br></br>
-------------------------------ScorpioNeal@HUST
+内容全部来自互联网，如有非议请联系作者删除

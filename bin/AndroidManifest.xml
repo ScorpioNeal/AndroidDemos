@@ -21,6 +21,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".view.BuyCartoon"
+            android:label="@string/view_buy_cartoon" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.SCORPIONEAL" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>

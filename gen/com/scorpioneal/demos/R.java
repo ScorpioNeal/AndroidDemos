@@ -13,17 +13,32 @@ public final class R {
     public static final class dimen {
         /**  Default screen margins, per the Android Design guidelines. 
          */
-        public static final int activity_horizontal_margin=0x7f030000;
-        public static final int activity_vertical_margin=0x7f030001;
+        public static final int activity_horizontal_margin=0x7f040000;
+        public static final int activity_vertical_margin=0x7f040001;
     }
     public static final class drawable {
-        public static final int ic_launcher=0x7f020000;
+        public static final int buy_bg_shape=0x7f020000;
+        public static final int ic_launcher=0x7f020001;
+        public static final int shopping_cart=0x7f020002;
+        public static final int sign=0x7f020003;
+        public static final int smart_shopping_cart_bg=0x7f020004;
+    }
+    public static final class id {
+        public static final int name=0x7f070002;
+        public static final int product_buy_btn=0x7f070001;
+        public static final int product_list=0x7f070000;
+        public static final int shopping_cart=0x7f070003;
+        public static final int shopping_img_cart=0x7f070004;
+    }
+    public static final class layout {
+        public static final int buycartoon_main=0x7f030000;
+        public static final int product_item=0x7f030001;
+        public static final int shopping_cart=0x7f030002;
     }
     public static final class string {
-        public static final int activity_hello_world=0x7f040001;
-        public static final int activity_hello_world1=0x7f040002;
-        public static final int app_name=0x7f040000;
-        public static final int test=0x7f040003;
+        public static final int activity_hello_world=0x7f050001;
+        public static final int app_name=0x7f050000;
+        public static final int view_buy_cartoon=0x7f050002;
     }
     public static final class style {
         /** 
@@ -36,10 +51,10 @@ public final class R {
             backward-compatibility can go here.
         
          */
-        public static final int AppBaseTheme=0x7f050000;
+        public static final int AppBaseTheme=0x7f060000;
         /**  Application theme. 
  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static final int AppTheme=0x7f050001;
+        public static final int AppTheme=0x7f060001;
     }
 }
