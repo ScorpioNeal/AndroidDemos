@@ -11,7 +11,6 @@ import android.app.Activity;
 import android.content.Context;
 import android.graphics.Color;
 import android.view.LayoutInflater;
-import android.view.Menu;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.ViewGroup;
@@ -31,7 +30,7 @@ import android.widget.TextView;
 /**
  * 思路： 记录按下的位置和结束的购物车的位置做位移动画 BadgeView是印章控件与一个view绑定, 类似微博显示条数
  */
-public class BuyCartoon extends Activity
+public class MyBadgeView extends Activity
 {
     private ListView mListView;// 商品listView
     private Context mContext;

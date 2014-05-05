@@ -3,6 +3,7 @@
 
     <string name="app_name">MyDemos</string>
     <string name="activity_hello_world">App/<b>Hello <i>World</i></b></string>
-    <string name="view_buy_cartoon">View/<b>Buy <i>Cartoon</i></b></string>
+    <string name="view_buy_cartoon">View/<b>MyBadgeView</b></string>
+    <string name="view_my_toast">View/<b>MyToast</b></string>
 
 </resources>
