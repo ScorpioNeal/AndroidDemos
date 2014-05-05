@@ -22,7 +22,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".view.BuyCartoon"
+            android:name=".view.MyBadgeView"
             android:label="@string/view_buy_cartoon" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
