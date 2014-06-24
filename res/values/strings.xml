@@ -5,5 +5,8 @@
     <string name="activity_hello_world">App/<b>Hello <i>World</i></b></string>
     <string name="view_buy_cartoon">View/<b>MyBadgeView</b></string>
     <string name="view_my_toast">View/<b>MyToast</b></string>
-
-</resources>
+    <string name="view_shimmer_view">View/<b>Shimmer</b></string>
+    <string name="shimmer">Shimmer</string>
+    <string name="toggle_animation">Toggle animation</string>
+    <string name="action_settings">Settings</string>
+</resources>
