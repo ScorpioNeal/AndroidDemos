@@ -4,6 +4,10 @@
     android:versionCode="1"
     android:versionName="1.0" >
 
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+
     <uses-sdk
         android:minSdkVersion="8"
         android:targetSdkVersion="17" />
@@ -51,6 +55,24 @@
         <activity
             android:name=".util.MyNinePatchUtilTest"
             android:label="@string/util_ninepatch_util" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.SCORPIONEAL" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".util.MyPhoneInfoTest"
+            android:label="@string/util_phoneinfo_util" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.SCORPIONEAL" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".view.MyWaterWaveView"
+            android:label="@string/view_waterwave_view" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

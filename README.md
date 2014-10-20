@@ -11,3 +11,4 @@
 <h3>Util
 
 	* Util/NinePatchUtil 
+	* Util/PhoneInfoUtil

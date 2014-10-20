@@ -10,4 +10,6 @@
     <string name="toggle_animation">Toggle animation</string>
     <string name="action_settings">Settings</string>
     <string name="util_ninepatch_util">Util/<b>NinePatchUtil</b></string>
-</resources>
+    <string name="util_phoneinfo_util">Util/<b>PhoneInfoUtil</b></string>
+    <string name="view_waterwave_view">View/<b>WaterWaveView</b></string>
+</resources>
