@@ -48,6 +48,15 @@
                 <category android:name="android.intent.category.SCORPIONEAL" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".util.MyNinePatchUtilTest"
+            android:label="@string/util_ninepatch_util" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.SCORPIONEAL" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>

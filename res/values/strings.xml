@@ -9,4 +9,5 @@
     <string name="shimmer">Shimmer</string>
     <string name="toggle_animation">Toggle animation</string>
     <string name="action_settings">Settings</string>
-</resources>
+    <string name="util_ninepatch_util">Util/<b>NinePatchUtil</b></string>
+</resources>
